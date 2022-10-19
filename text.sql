@@ -7,6 +7,6 @@ C:/Users/swanm/intro_dev/programming-intro-lab-14-Paolita-Mada/migrations/4_seed
 C:/Users/swanm/intro_dev/programming-intro-lab-14-Paolita-Mada/queries/5_posts-with-users.sql
 C:/Users/swanm/intro_dev/programming-intro-lab-14-Paolita-Mada/queries/6_comments-with-users.sql
 C:/Users/swanm/intro_dev/programming-intro-lab-14-Paolita-Mada/queries/7_lazy-user.sql
-
-
+C:/Users/swanm/intro_dev/programming-intro-lab-14-Paolita-Mada/queries/8_posts-and-comments.sql
+C:/Users/swanm/intro_dev/programming-intro-lab-14-Paolita-Mada/queries/9_join-between.sql
 
